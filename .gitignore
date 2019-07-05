@@ -73,3 +73,5 @@
 
 # Ignore api key
 **/google-services.json
+
+.vscode/
